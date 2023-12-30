@@ -1,0 +1,2 @@
+Sampling time [ms],Range_X,Range_X Min[Hz],Range_X Max[Hz],Range_Y,Range_Y Min[Hz],Range_Y Max[Hz],Range_Z,Range_Z Min[Hz],Range_Z Max[Hz],Filter Characteristics,flag,username,timestamp
+4,BPF,30,50,LPF,0.1,50,LPF,0.1,50,,,,2023-12-30 12:48:48.980470
